@@ -1,2 +1,2 @@
 # Redux
-This is Redux tutorial
+This is my first Redux tutorial
